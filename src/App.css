@@ -1,0 +1,12 @@
+html {
+  font-family: sans-serif;
+  margin: 10vh;
+  margin-top: 5vh;;
+}
+
+.code {
+  background-color: #cfcfcf;
+  padding: 4px;
+  border-radius: 2px;
+  color: #000;
+}
