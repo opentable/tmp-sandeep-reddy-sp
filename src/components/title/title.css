@@ -1,0 +1,30 @@
+.title-container {
+  width: 100%;
+}
+
+.title {
+  display: block;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  width: 100%;
+}
+.title-container {
+  border-bottom: 5px solid #333;
+  border-top: 5px solid #333;
+}
+
+.subtitle {
+  line-height: 1.8;
+}
+
+.todo_paragraph {
+  font-family: monospace;
+  line-height: 1.8;
+  margin-bottom: 10px;
+}
+
+
+li {
+  padding-left: 20px;
+}

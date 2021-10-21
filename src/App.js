@@ -1,14 +1,11 @@
 import React from 'react';
-import Phone from './sections/phone/Phone';
-import Mail from './sections/mail/Mail';
+import Content from './components/content/content';
+import styles from './App.css';
 
 class App extends React.Component {
   render() {
     return (
-      <React.Fragment>
-        <Phone />
-        <Mail />
-      </React.Fragment>
+        <Content />
     );
   };
 }
