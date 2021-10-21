@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this exercise we will pairing to calculate the availability of the Lunch shift for the OpenTable Bistro restaurant. To do this, you will be using the scaffold and configuration provided in `src/services/Availability.js` and its `.spec.js` tests file. Additional information wil be shared at the time of the first session.
+In this exercise we will pairing to calculate the availability of the Lunch shift for the OpenTable Bistro restaurant. Please setup your environment to run locally prior to the call. The interviewer will walk you through the next steps.
 
 
 ## Setup
@@ -24,7 +24,7 @@ npm install
 ### Running the tests
 
 ```
-npm tests
+npm test
 ```
 
 Launches the test runner in the interactive watch mode.
